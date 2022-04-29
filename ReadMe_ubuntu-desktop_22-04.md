@@ -1,6 +1,6 @@
 # Guide d'installation d'Ubuntu Desktop 22.04
 
-==> [retour accueil](ReadMe.md)
+==> [retour accueil](../..)
 
 ## Guide de création d'une machine virtuelle
 
