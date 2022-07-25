@@ -81,6 +81,8 @@ Il n'ya plus qu'à redémarrer.
 | Paquet | Détails | MacOS | Debian 11 | Ubuntu Desktop 22.04 LTS | Ubuntu Server 22.04 LTS |
 |---|---|---|---|---|---|
 | **Outils client** |
+| `lsb-release` | base standartd de linux |✅ |✅ |✅ [déjà installé] |✅ |
+| `gnupg` | implémentation complète et gratuite du standard OpenPGP [gnupg.org](https://gnupg.org/) |✅ |✅ |✅ [déjà installé] |✅ |
 | `tree` | générateur d'arborescence de fichier sous forme d'arbre |✅ |✅ |✅ |✅ |
 | `nano` | un éditeur de texte pour console |✅ |✅ |✅ |✅ |
 | `xemacs21` | un éditeur de texte pour X Window |✅ |✅ |✅ |✅ |

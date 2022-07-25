@@ -42,3 +42,17 @@
 ![ubuntu_desktop_033](004_ubuntu_desktop_22-04/ubuntu_desktop_22-04_033.png)
 ![ubuntu_desktop_034](004_ubuntu_desktop_22-04/ubuntu_desktop_22-04_034.png)
 ![ubuntu_desktop_035](004_ubuntu_desktop_22-04/ubuntu_desktop_22-04_035.png)
+
+## Installation et utilisation Docker
+
+Installation
+
+```
+apt install docker.io
+```
+
+Statut :
+
+```
+systemctl status docker
+```
